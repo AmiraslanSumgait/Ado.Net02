@@ -1,0 +1,11 @@
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\bin\Debug\Ado.Net02.exe.config
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\bin\Debug\Ado.Net02.exe
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\bin\Debug\Ado.Net02.pdb
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.Form1.resources
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.exe
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.pdb
+C:\Users\Amiraslan\source\repos\Ado.Net02\Ado.Net02\obj\Debug\Ado.Net02.OrderDetail.resources
