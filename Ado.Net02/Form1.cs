@@ -58,7 +58,7 @@ namespace Ado.Net02
                                                on Orders.CustomerID=Customers.CustomerID INNER JOIN [Order Details]
                                                on Orders.OrderID=[Order Details].OrderID INNER JOIN Products
                                                on [Order Details].ProductID=Products.ProductID
-                                               Where Orders.OrderID=" + cbx_Orders.SelectedItem.ToString() + "", connectionString);
+                                               Where Orders.OrderID=" + cbx_Orders.SelectedItem.ToString() , connectionString);
             dt = new DataTable();
             da.Fill(dt);
             dataGridView1.DataSource = dt;
