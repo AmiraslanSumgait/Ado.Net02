@@ -80,7 +80,6 @@ namespace Ado.Net02
             dataGridView1.ClearSelection();
             da.SelectCommand.Parameters.AddWithValue("ProductName", dataGridView1.CurrentRow.Cells["ProductName"].Value.ToString());
             da.Fill(dt);
-            dataGridView1.DataSource = dt;
             OrderDetail orderDetail = new OrderDetail(dt);
             orderDetail.ShowDialog();
             
